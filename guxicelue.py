@@ -1,6 +1,3 @@
-# 克隆自聚宽文章：https://www.joinquant.com/post/21179
-# 标题：自带仓位控制的股息率策略，超稳
-# 作者：只看年报来投资
 
 # 导入函数库
 from jqdata import *
